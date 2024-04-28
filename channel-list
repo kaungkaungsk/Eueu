@@ -1,6 +1,10 @@
 [
 {
 "title": "BEIN SPORTS",
-  "url": "http://panel.smstv.live/player_api.php?username=smsdefaultapp&password=BRqrFDTnB4&&action=get_live_streams&category_id=32"
+"url": "http://panel.smstv.live/player_api.php?username=smsdefaultapp&password=BRqrFDTnB4&&action=get_live_streams&category_id=32"
+},
+{
+"title": "Myanmar TV Channels",
+"url": "http://panel.smstv.live/player_api.php?username=smsdefaultapp&password=BRqrFDTnB4&&action=get_live_streams&category_id=1"
 }
 ]
